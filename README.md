@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/3f907c17-87f7-4322-9b50-c8f9d2763d33
 
 ### Wiring Diagram
 See the `docs/` or `assets/` folder for a Fritzing diagram illustrating the setup.  
-![Fridge AI Fritzing](/assets/fridge_ai.jpg)
+![Fridge AI Fritzing](https://github.com/user-attachments/assets/4e3240ab-45ee-460f-897e-0d4c607180bc)
 
 ---
 
