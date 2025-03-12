@@ -5,7 +5,7 @@ Automatically track what's inside your fridge using a Raspberry Pi 5, an ultraso
 
 ## Demo
 Check out the demo video in the repository (or linked below) to see the system in action:  
-[**Demo Video**](assets\demo.mp4)
+[**Demo Video**](assets/demo.mp4)
 
 ---
 
